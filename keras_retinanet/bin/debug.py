@@ -21,6 +21,8 @@ import os
 import sys
 import cv2
 
+import cv2
+
 # Set keycodes for changing images
 # 81, 83 are left and right arrows on linux in Ascii code (probably not needed)
 # 65361, 65363 are left and right arrows in linux

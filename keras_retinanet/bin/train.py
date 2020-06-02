@@ -21,6 +21,8 @@ import os
 import sys
 import warnings
 
+import cv2
+
 import tensorflow as tf
 tf.compat.v1.disable_v2_behavior()
 
