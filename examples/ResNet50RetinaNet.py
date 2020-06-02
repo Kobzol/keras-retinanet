@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import cv2
+
 # ## Load necessary modules
 # import tensorflow as tf
 import tensorflow as tf
@@ -18,7 +20,6 @@ from keras_retinanet.utils.gpu import setup_gpu
 
 # import miscellaneous modules
 import matplotlib.pyplot as plt
-import cv2
 import os
 import numpy as np
 import time
